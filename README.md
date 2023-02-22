@@ -32,6 +32,6 @@ The execution is split in three stages:
 
 * Introduction to Scheme: https://www.youtube.com/watch?v=AqBxU-Zmx00 explains the basics of a programming language.
 
-* Книга [Build Your Own Lisp](http://www.buildyourownlisp.com/) разбирает детали реализации интерпретатора на языке C.
+* Book [Build Your Own Lisp](http://www.buildyourownlisp.com/) explains the details of the interpreter implementation in the C language.
 
-* Книга [Crafting Interpreters](http://craftinginterpreters.com/) разбирает реализацию интерпретатора для более сложного языка, чем LISP.
+* Book [Crafting Interpreters](http://craftinginterpreters.com/) provides with the interpreter implementation for a more complex language than LISP.
